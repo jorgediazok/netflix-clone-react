@@ -21,12 +21,12 @@ function Navbar() {
     <div className={`nav ${show && 'nav__black'}`}>
       <img
         className="nav__logo"
-        src="https://images.hindustantimes.com/tech/rf/image_size_960x540/HT/p2/2019/01/06/Pictures/new-age-of-streaming_58f730d6-1189-11e9-9a6b-91d91ee16f0e.jpg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1597px-Netflix_2015_logo.svg.png"
         alt="Netflix Logo"
       />
       <img
         className="nav__avatar"
-        src="https://blogs.studentlife.utoronto.ca/lifeatuoft/files/2015/02/FullSizeRender.jpg"
+        src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/366be133850498.56ba69ac36858.png"
         alt="Netflix Avatar"
       />
     </div>
